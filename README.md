@@ -16,7 +16,7 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 - MySQL GIF
 
-![mySQL](./Assets/e-Commerce%20HW%20Assets/mySql.gif)
+![mySQL](./Assets/e-Commerce%20HW%20Assets/mySQL.gif)
 
 - GET request
 
