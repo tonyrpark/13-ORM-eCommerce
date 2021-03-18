@@ -12,15 +12,15 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 - Code with Schema Incorporated and Initial 'npm start' command
 
-![Code](./Assets/e-Commerce HW Assets/code.gif)
+![Code](./Assets/e-Commerce%20HW%20Assets/code.gif)
 
 - MySQL GIF
 
-![mySQL](./Assets/e-Commerce HW Assets/mySql.gif)
+![mySQL](./Assets/e-Commerce%20HW%20Assets/mySql.gif)
 
 - GET request
 
-![getRequest](./Assets/e-Commerce HW Assets/getRequestAll.gif)
+![getRequest](./Assets/e-Commerce%20HW%20Assets/getRequestAll.gif)
 
 - POST request
 
